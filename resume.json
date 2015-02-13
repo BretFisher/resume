@@ -1,0 +1,196 @@
+{
+  "basics": {
+    "name": "Bret Fisher",
+    "label": "Sysadmin. Developer. Entrepreneur.",
+    "picture": "avatar.jpg",
+    "email": "bret@coreenable.com",
+    "phone": "+1 757-375-4433",
+    "website": "http://bretfisher.com",
+    "summary": "20+ years in IT. Sysadmin. Developer. Designing, builing, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users.",
+    "location": {
+      "address": "",
+      "postalCode": "VA 23451",
+      "city": "Virginia Beach",
+      "countryCode": "US",
+      "region": "Virginia"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "BretFisher",
+        "url": "https://twitter.com/bretfisher"
+      },
+      {
+        "network": "GitHub",
+        "username": "BretFisher",
+        "url": "http://github.com/bretfisher"
+      },
+      {
+        "network": "Google+",
+        "username": "BretFisherITPro",
+        "url": "https://plus.google.com/+BretFisherITPro"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "BretFisher",
+        "url": "http://www.linkedin.com/in/bretefisher"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Winsitter",
+      "position": "CEO and Co-Founder",
+      "website": "http://winsitter.com",
+      "startDate": "2012-01-01",
+      "summary": "Building a SaaS to help small businesses monitor their servers and get mobile alerts about potental issues.",
+      "highlights": [
+        "Built a fully cloud-based, redundant, continuous integration and deployment infrastructure handeling 1m transactions a day. Including: Git, GitHub, Azure, Ubuntu, Node.js, Meteor.js, MongoDB Replicas, Codeship, SSH/SFTP, Slack ChatOps, Sendgrid, Papertrail logging, NewRelic Node.js monitoring, MMS Backups, and fully scripted server builds. Currently migrating to Docker, nginx and CoreOS.",
+        "Assisted Node.js development of API backend on express.",
+        "Lead development of Meteor.js web and mobile front-end dashboard for system monitoring."
+      ]
+    },
+    {
+      "company": "Core Enable",
+      "position": "CEO/Freelance Consultant",
+      "website": "http://coreenable.com",
+      "startDate": "2010-01-01",
+      "summary": "Serving dozens of clients throughout North America for Sysadmin, DevOps, Infrastructure Security, and Virtual CTO",
+      "highlights": [
+        "Advise clients and engineer infrastructure buildout in the cloud: Azure, AWS, Digital Ocean, Modulus, and others. Site-to-site VPN's, proxys, backups, caching, CDN, PaaS, IaaS, CI, CD, git-based deployments, autoscaling.",
+        "Manage/operate virtual machines for many clients, including patching, P2V, automation, monitoring, failover, backups, etc.",
+        "Built out of 50+ servers for finanical services org using Hyper-V and Systems Center, across 3 sites. Hybrid cloud.",
+        "Many P2V and virtualization buildouts. Onsite, hybrid, and pure cloud."
+      ]
+    },
+    {
+      "company": "City of Virgina Beach",
+      "position": "Infrastructue Team Leader",
+      "website": "http://vbgov.com",
+      "startDate": "2004-07-01",
+      "endDate": "2009-11-01",
+      "summary": "Managing the data center systems of 500 OS's for 7,000 users, with a team of ~7",
+      "highlights": [
+        "Migrated from a phyiscal datacenter to mostly-virtualized datacenter, drastily reducing floor space and energy requirements.",
+        "Oversaw a team of senior engineers maintaining all servers, backups, storage, and monitoring.",
+        "Built automation using PowerShell, VBScript, Batch, Bash, SSH, WMI.",
+        "Spearheaded many major tech advancements at the city, including web colaboration (SharePoint), VoIP and multimedia colaboration (Lync), client VPN for 1000+ mobile devices, iSCSI storage networks, and much more."
+      ]
+    },
+    {
+      "company": "many others including Navy, NMCI, Consulting companies, Freelancing. See LinkedIn.",
+      "startDate": "1994-01-01",
+      "endDate": "2006-01-01"
+    }
+
+  ],
+  "volunteer": [
+    {
+      "organization": "Code for America",
+      "position": "Co-Captain, Code for Hampton Roads Brigade",
+      "website": "http://code4hr.org/",
+      "startDate": "2012-07-01",
+      "summary": "Global volunteer movement to open government data and make usefull things for citizens. Focused on local gov and orgs."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Navy",
+      "area": "Information Technology (Data Systems Tech)",
+      "studyType": "'A' and 'C' Advanced Engineering Schools",
+      "startDate": "1993-12-01",
+      "endDate": "1995-02-01"
+    },
+    {
+      "institution": "Many certification classes over the years"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Eagle Scout",
+      "date": "1991-01-01",
+      "awarder": "Boy Scouts of America"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Fishbrains Sysadmin Blog",
+      "website": "http://fishbrains.com",
+      "summary": "My main blog for the last 15+ years."
+    },
+    {
+      "name": "Winsitter Heartbeat Blog",
+      "website": "http://winsitter.com/blog",
+      "summary": "Blogging about the product, monitoring, and sysadmin"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Sysadmin and IT Pro",
+      "level": "Epic",
+      "keywords": [
+        "MongoDB",
+        "Windows Server and Clients",
+        "Linux, many flavors",
+        "OS X",
+        "DevOps",
+        "ChatOps",
+        "Azure",
+        "AWS/EC2",
+        "Digital Ocean",
+        "Docker",
+        "Bash Scripting",
+        "PowerShell",
+        "Continuous Integration/Deployment",
+        "Microsoft SQL",
+        "Microsoft System Center",
+        "Way to many tools and products to list"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Hacker for Good",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Meteor.js",
+        "Cordova",
+        "ASP.NET",
+        "PHP",
+        "MS-SQL",
+        "MongoDB",
+        "Azure Table Storage (NoSQL)",
+        "Ruby/Rails",
+        "many other frameworks on the languages mentioned here"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Rob Atwood, IT Systems and Support Director, City of Virginia Beach",
+      "reference": "Bret's knowledge of all aspects of Information Technology is second to none.'...'Bret's technical skills are only matched by his personal skills. He has the ability to build relationships with customers and coworkers. I would recommend him for any engineering opportunity."
+    },
+    {
+      "name": "Dave Foster, App Servers Team Lead, overseeing 6+ systems engineers and 300 servers",
+      "reference": "Bret is one of the more innovative individuals I have had the opportunity to work with. An extremely knowledgeable person on current technology..."
+    },
+    {
+      "name": "Michael Clark, Team Lead, CTO, and Instructure with over 40 certifications",
+      "reference": "Top notch Microsoft expertise, and I'm still trying to figure out how he keeps as current as he does. If there is something new in the IT field, he will know about it, and his solutions are rock solid!"
+    },
+    {
+      "name": "Kevin Griffin, Co-Founder of Winsitter, Microsoft MVP",
+      "reference": "...Working with Bret was like hitting a gold mine. Every conversation I had with him enlightened me more. Bret is the type of engineer I strive to be in the future."
+    },
+    {
+      "name": "Melissa Zibutis, Virginia Beach City Government - Office of Volunteer Resources",
+      "reference": "It has been an honor and a pleasure to work with Bret and his team of volunteers over the past two years. In partnering with Bret, we have had the ability to show our community the tremendous impact civic minded volunteers can have on public engagement. Bret is creative and enthusiastic, but also realistic and respects existing city policy. I would highly recommend any community organization or municipal government to partner with Bret and his volunteers. They have been such a pleasure to work with and I look forward to seeing all that the future has in store for our partnership."
+    },
+    {
+      "name": "Monica Vollmer, MetaSourcers",
+      "reference": "Bret is one of the most talented IT professionals I've met to date. I've had the privilege of hiring Bret for several of my clients over the years and the feedback is nothing but stellar. Not only does Bret have a strong background in a variety of areas, he's often the Subject Matter Expert I go to when looking for high level technical candidates. He stays plugged in and is thought very highly of in the IT industry. He's not just a solid IT professional; he's got an amazing personality that allows him to be a huge asset to any organization. I’ll continue to seek Bret’s background and knowledge simply because I know what my clients will get – a top notch individual!"
+    }
+  ]
+}
