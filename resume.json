@@ -3,10 +3,10 @@
     "name": "Bret Fisher",
     "label": "Sysadmin. Developer. Entrepreneur.",
     "picture": "avatar.jpg",
-    "email": "bret@coreenable.com",
+    "email": "bret@fishbrains.com",
     "phone": "+1 757-375-4433",
     "website": "http://bretfisher.com",
-    "summary": "20+ years in IT. Sysadmin. Developer. Designing, builing, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users.",
+    "summary": "20+ years in IT. Sysadmin. Developer. Designing, builing, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users. A longer resume with lots of recommendations on LinkedIn. I Have my hands in many pots, but these days spend much of my time working in JavaScript and being a Sysadmin for on-prem and cloud with a continued focus on automation and tooling. Lover of DevOps and ChatOps movements. I spend my freetime in our local, thriving, developer and startup scene with a focus on volunteerism. I basically spend my days helping people. A people-person who finds himself in front of the computer way too often. I live at The Beach. Dogs not Cats.",
     "location": {
       "address": "",
       "postalCode": "VA 23451",
@@ -90,7 +90,7 @@
       "position": "Co-Captain, Code for Hampton Roads Brigade",
       "website": "http://code4hr.org/",
       "startDate": "2012-07-01",
-      "summary": "Global volunteer movement to open government data and make usefull things for citizens. Focused on local gov and orgs."
+      "summary": "I herd cats, play cloud sysadmin, and build Open Source Software to help citizens and local government. Global volunteer movement to open government data and make usefull things for citizens."
     }
   ],
   "education": [
