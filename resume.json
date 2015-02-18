@@ -138,7 +138,7 @@
         "Azure",
         "AWS/EC2",
         "Digital Ocean",
-        "Docker",
+        "Docker/CoreOS",
         "Bash Scripting",
         "PowerShell",
         "Continuous Integration/Deployment",
