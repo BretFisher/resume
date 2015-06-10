@@ -6,7 +6,7 @@
     "email": "bret@fishbrains.com",
     "phone": "+1 757-375-4433",
     "website": "http://bretfisher.com",
-    "summary": "20+ years in IT. Sysadmin. Developer. Designing, builing, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users. A longer resume with lots of recommendations on LinkedIn. I Have my hands in many pots, but these days spend much of my time working in JavaScript and being a Sysadmin for on-prem and cloud with a continued focus on automation and tooling. Lover of DevOps and ChatOps movements. I spend my freetime in our local, thriving, developer and startup scene with a focus on volunteerism. I basically spend my days helping people. A people-person who finds himself in front of the computer way too often. I live at The Beach. Dogs not Cats.",
+    "summary": "20+ years in IT. Sysadmin. Developer. Designing, building, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users. A longer resume with lots of recommendations on LinkedIn. I Have my hands in many pots, but these days spend much of my time getting companies into the cloud, and managing cloud infrastructure. I also <3 working in JavaScript and being a Sysadmin with a continued focus on automation and tooling. Lover of DevOps and ChatOps movements. I spend my freetime in our local, thriving, developer and startup scene with a focus on volunteerism. I basically spend my days helping people. A people-person who finds himself in front of the computer way too often. I live at The Beach. Dogs not Cats.",
     "location": {
       "address": "",
       "postalCode": "VA 23451",
@@ -26,11 +26,6 @@
         "url": "http://github.com/bretfisher"
       },
       {
-        "network": "Google+",
-        "username": "BretFisherITPro",
-        "url": "https://plus.google.com/+BretFisherITPro"
-      },
-      {
         "network": "LinkedIn",
         "username": "BretFisher",
         "url": "http://www.linkedin.com/in/bretefisher"
@@ -45,22 +40,25 @@
       "startDate": "2012-01-01",
       "summary": "Building a SaaS to help small businesses monitor their servers and get mobile alerts about potental issues.",
       "highlights": [
-        "Built a fully cloud-based, redundant, continuous integration and deployment infrastructure handeling 1m transactions a day. Including: Git, GitHub, Azure, Ubuntu, Node.js, Meteor.js, MongoDB Replicas, Codeship, SSH/SFTP, Slack ChatOps, Sendgrid, Papertrail logging, NewRelic Node.js monitoring, MMS Backups, and fully scripted server builds. Currently migrating to Docker, nginx and CoreOS.",
+        "Built a fully cloud-based, redundant, continuous integration and deployment infrastructure handling 1m transactions a day. Including: Git, GitHub, Azure, Ubuntu, Node.js, Meteor.js, MongoDB Replicas, Codeship, SSH/SFTP, Slack ChatOps, Sendgrid, Papertrail logging, NewRelic Node.js monitoring, MMS Backups, and fully scripted server builds. Currently migrating to Docker, nginx and CoreOS.",
         "Assisted Node.js development of API backend on express.",
         "Lead development of Meteor.js web and mobile front-end dashboard for system monitoring."
       ]
     },
     {
       "company": "Core Enable",
-      "position": "CEO/Freelance Consultant",
+      "position": "CEO/Consultant",
       "website": "http://coreenable.com",
       "startDate": "2010-01-01",
-      "summary": "Serving dozens of clients throughout North America for Sysadmin, DevOps, Infrastructure Security, and Virtual CTO",
+      "summary": "Serving dozens of clients throughout North America for Cloud and On-Prem Sysadmin, DevOps, Infrastructure Security, and Virtual CTO",
       "highlights": [
-        "Advise clients and engineer infrastructure buildout in the cloud: Azure, AWS, Digital Ocean, Modulus, and others. Site-to-site VPN's, proxys, backups, caching, CDN, PaaS, IaaS, CI, CD, git-based deployments, autoscaling.",
+        "Advise clients and engineer infrastructure build-out in the cloud: Azure, O365, AWS, Digital Ocean, Google, Modulus, and others. Virtual Machine automation and management, hybrid cloud design, automation with Javascript, Powershell, and shell scripts",
+        "Create and manage systems and services in the cloud: site-to-site VPN's, proxys, backups, caching, CDN, PaaS, IaaS, CI/CD, git-based deployments, autoscaling, cloud monitoring, logging, and automation.",
         "Manage/operate virtual machines for many clients, including patching, P2V, automation, monitoring, failover, backups, etc.",
-        "Built out of 50+ servers for finanical services org using Hyper-V and Systems Center, across 3 sites. Hybrid cloud.",
-        "Many P2V and virtualization buildouts. Onsite, hybrid, and pure cloud."
+        "Build out of 70+ servers for financial services org using Hyper-V and Systems Center, across 3 sites. Hybrid cloud.",
+        "Build out of customers Microsoft Private Cloud using Azure Portal and System Center.",
+        "Build out of customers Joyent Public Cloud Linux and SmartOS compute infrastructure in SaltStack.",
+        "Many P2V and virtualization build-outs. Onsite, hybrid, and pure cloud."
       ]
     },
     {
@@ -71,10 +69,10 @@
       "endDate": "2009-11-01",
       "summary": "Managing the data center systems of 500 OS's for 7,000 users, with a team of ~7",
       "highlights": [
-        "Migrated from a phyiscal datacenter to mostly-virtualized datacenter, drastily reducing floor space and energy requirements.",
-        "Oversaw a team of senior engineers maintaining all servers, backups, storage, and monitoring.",
+        "Migrated from a physical datacenter to mostly-virtualized datacenter, drastically reducing floor space and energy requirements.",
+        "Oversaw a team of senior engineers maintaining all servers, clients, backups, storage, and monitoring for 400 servers, 4,000 clients, and 6,000 users.",
         "Built automation using PowerShell, VBScript, Batch, Bash, SSH, WMI.",
-        "Spearheaded many major tech advancements at the city, including web colaboration (SharePoint), VoIP and multimedia colaboration (Lync), client VPN for 1000+ mobile devices, iSCSI storage networks, and much more."
+        "Spearheaded many major tech advancements at the city, including web collaboration (SharePoint), VoIP and multimedia collaboration (Lync), client VPN for 1000+ mobile devices, iSCSI storage networks, and much more."
       ]
     },
     {
@@ -90,7 +88,7 @@
       "position": "Co-Captain, Code for Hampton Roads Brigade",
       "website": "http://code4hr.org/",
       "startDate": "2012-07-01",
-      "summary": "I herd cats, play cloud sysadmin, and build Open Source Software to help citizens and local government. Global volunteer movement to open government data and make usefull things for citizens."
+      "summary": "I herd cats, play cloud sysadmin, and build Open Source Software to help citizens and local government. Global volunteer movement to open government data and make useful things for citizens."
     }
   ],
   "education": [
@@ -110,7 +108,13 @@
       "title": "Eagle Scout",
       "date": "1991-01-01",
       "awarder": "Boy Scouts of America"
+    },
+    {
+      "title": "Gartner IT Security Innovation Award, 2007, Public Sector",
+      "date": "2007-07-01",
+      "awarder": "Gartner, for Initial Idea and Overseeing Creation of a Web+Email Based Secure Messaging Application"
     }
+    
   ],
   "publications": [
     {
@@ -131,6 +135,7 @@
       "keywords": [
         "MongoDB",
         "Windows Server and Clients",
+        "Office 365",
         "Linux, many flavors",
         "OS X",
         "DevOps",
@@ -138,6 +143,7 @@
         "Azure",
         "AWS/EC2",
         "Digital Ocean",
+        "Google Apps",
         "Docker/CoreOS",
         "Bash Scripting",
         "PowerShell",
@@ -151,18 +157,15 @@
       "name": "Web Development",
       "level": "Hacker for Good",
       "keywords": [
-        "HTML",
-        "CSS",
         "JavaScript",
         "Node.js",
-        "Meteor.js",
+        "Meteor",
+        "HTML/CSS",
         "Cordova",
         "ASP.NET",
         "PHP",
         "MS-SQL",
         "MongoDB",
-        "Azure Table Storage (NoSQL)",
-        "Ruby/Rails",
         "many other frameworks on the languages mentioned here"
       ]
     }
@@ -177,7 +180,7 @@
       "reference": "Bret is one of the more innovative individuals I have had the opportunity to work with. An extremely knowledgeable person on current technology..."
     },
     {
-      "name": "Michael Clark, Team Lead, CTO, and Instructure with over 40 certifications",
+      "name": "Michael Clark, Team Lead, CTO, and Instructor with over 40 certifications",
       "reference": "Top notch Microsoft expertise, and I'm still trying to figure out how he keeps as current as he does. If there is something new in the IT field, he will know about it, and his solutions are rock solid!"
     },
     {
