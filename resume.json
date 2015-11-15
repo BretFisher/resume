@@ -6,7 +6,7 @@
     "email": "bret@coreenable.com",
     "phone": "+1 757-375-4433",
     "website": "http://bretfisher.com",
-    "summary": "20+ years in IT. Windows/Linux/SmartOS server Sysadmin with love for DevOps. JavaScript Developer. Designing, building, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users. A longer resume with lots of recommendations on LinkedIn. I Have my hands in many pots, but these days spend much of my time getting companies into the cloud, and modernizing/automating cloud infrastructure. I also <3 working with *Infrastructure as Code*, automation, SaltStack, CI/CD, and operationalization of manual tasks. Lover of DevOps and ChatOps movements. I spend my freetime in our local, thriving, developer and startup scene with a focus on volunteerism and community organizing. I basically spend my days helping people. A people-person who finds himself in front of the computer way too often. I live at The Beach. Dogs not Cats.",
+    "summary": "20+ years in IT. Windows/Linux/SmartOS server Sysadmin with love for DevOps. JavaScript Developer. Designing, building, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users. A longer resume with lots of recommendations on LinkedIn. I Have my hands in many pots, but these days spend much of my time getting companies into the cloud, and modernizing/automating cloud infrastructure. I also <3 working with *Infrastructure as Code*, automation, SaltStack, CI/CD, and operationalization of manual tasks. Lover of DevOps and ChatOps movements. I spend my free time in our local, thriving, developer and startup scene with a focus on volunteerism and community organizing. I basically spend my days helping people. A people-person who finds himself in front of the computer way too often. I live at The Beach. Dogs not Cats.",
     "location": {
       "address": "",
       "postalCode": "VA 23451",
@@ -64,7 +64,7 @@
     },
     {
       "company": "City of Virgina Beach",
-      "position": "Infrastructue Team Leader",
+      "position": "Infrastructure Team Leader",
       "website": "http://vbgov.com",
       "startDate": "2004-07-01",
       "endDate": "2009-11-01",
