@@ -6,7 +6,7 @@
     "email": "bret@coreenable.com",
     "phone": "+1 757-375-4433",
     "website": "http://bretfisher.com",
-    "summary": "20+ years in IT. Windows/Linux/SmartOS server Sysadmin with love for DevOps. JavaScript Developer. Designing, building, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users. A longer resume with lots of recommendations on LinkedIn. I Have my hands in many pots, but these days spend much of my time getting companies into the cloud, and modernizing/automating cloud infrastructure. I also <3 working with *Infrastructure as Code*, automation, SaltStack, CI/CD, and operationalization of manual tasks. Lover of DevOps and ChatOps movements. I spend my free time in our local, thriving, developer and startup scene with a focus on volunteerism and community organizing. I basically spend my days helping people. A people-person who finds himself in front of the computer way too often. I live at The Beach. Dogs not Cats.",
+    "summary": "20+ years in IT. Windows/Linux/SmartOS server Sysadmin with love for DevOps. JavaScript Developer. Designing, building, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users. A longer resume with lots of recommendations on LinkedIn. I Have my hands in many pots, but these days spend much of my time getting companies into the cloud, and modernizing/automating cloud infrastructure. I also currently work with *Infrastructure as Code*, Docker, cloud automation, SaltStack, CI/CD, and operationalization of manual tasks. Lover of DevOps and ChatOps movements. I spend my free time in our local, thriving, developer and startup scene with a focus on volunteerism and community organizing. I basically spend my days helping people. A people-person who finds himself in front of the computer way too often. I live at The Beach. Dogs not Cats.",
     "location": {
       "address": "",
       "postalCode": "VA 23451",
@@ -40,12 +40,13 @@
       "startDate": "2010-01-01",
       "summary": "Serving dozens of clients throughout North America for Cloud and On-Prem Sysadmin, DevOps, Infrastructure Security, and Virtual CTO",
       "highlights": [
-        "Advise clients and engineer infrastructure build-out in the cloud: Azure, O365, AWS, Digital Ocean, Google, Modulus, and others. Virtual Machine automation and management, hybrid cloud design, automation with Javascript, Powershell, and shell scripts",
-        "Create and manage systems and services in the cloud: site-to-site VPN's, proxys, backups, caching, CDN, PaaS, IaaS, CI/CD, git-based deployments, autoscaling, cloud monitoring, logging, and automation.",
+        "Advise clients and engineer infrastructure build-out in the cloud: Azure, AWS, Digital Ocean, Joyent, and others. Container and virtual machine automation and management, hybrid cloud design, automation with JavaScript, PowerShell, and shell scripts",
+        "Create and manage systems and services in the cloud: site-to-site VPN's, proxys, backups, caching, CDN, PaaS, IaaS, CI/CD, git-based deployments, webhook automation, autoscaling, cloud monitoring, and central logging.",
         "Manage/operate virtual machines for many clients, including patching, P2V, automation, monitoring, failover, backups, etc.",
         "Build out of 70+ servers for financial services org using Hyper-V and Systems Center, across 3 sites. Hybrid cloud.",
         "Build out of customers Microsoft Private Cloud using Azure Portal and System Center.",
         "Build out of customers Joyent Public Cloud Linux and SmartOS compute infrastructure in SaltStack.",
+        "Many Docker container continous deployment designs. Docker CI, logging, and discovery automation."
         "Many P2V and virtualization build-outs. Onsite, hybrid, and pure cloud."
       ]
     },
@@ -115,7 +116,7 @@
       "date": "2007-07-01",
       "awarder": "Gartner, for Initial Idea and Overseeing Creation of a Web+Email Based Secure Messaging Application"
     }
-    
+
   ],
   "publications": [
     {
@@ -135,18 +136,17 @@
       "level": "Epic",
       "keywords": [
         "MongoDB",
-        "Windows Server and Clients",
-        "Office 365",
-        "Linux, many flavors",
-        "OS X",
+        "Windows Server and Clients/OS X",
+        "Linux, FreeBSD, Solaris/SmartOS",
         "DevOps",
         "ChatOps",
         "Azure",
         "AWS/EC2",
         "Digital Ocean",
-        "Google Apps",
-        "Docker/CoreOS",
+        "Google Apps/Office 365",
+        "Docker",
         "Bash Scripting",
+        "JavaScript/Node.js",
         "PowerShell",
         "Continuous Integration/Deployment",
         "Microsoft SQL",
