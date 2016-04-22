@@ -46,7 +46,7 @@
         "Build out of 70+ servers for financial services org using Hyper-V and Systems Center, across 3 sites. Hybrid cloud.",
         "Build out of customers Microsoft Private Cloud using Azure Portal and System Center.",
         "Build out of customers Joyent Public Cloud Linux and SmartOS compute infrastructure in SaltStack.",
-        "Many Docker container continous deployment designs. Docker CI, logging, and discovery automation."
+        "Many Docker container continous deployment designs. Docker CI, logging, and discovery automation.",
         "Many P2V and virtualization build-outs. Onsite, hybrid, and pure cloud."
       ]
     },
@@ -91,6 +91,13 @@
       "website": "http://code4hr.org/",
       "startDate": "2012-07-01",
       "summary": "I herd cats, play cloud sysadmin, and build Open Source Software to help citizens and local government. Global volunteer movement to open government data and make useful things for citizens."
+    },
+    {
+      "organization": "Docker Hampton Roads",
+      "position": "Founder, Organizer, Docker Captain",
+      "website": "http://dockerhr.org/",
+      "startDate": "2016-03-01",
+      "summary": "Helping others gather and learn about containers and the Docker echosystem."
     }
   ],
   "education": [
