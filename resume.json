@@ -44,7 +44,7 @@
         "Create and manage systems and services in the cloud: site-to-site VPN's, proxys, backups, caching, CDN, PaaS, IaaS, CI/CD, git-based deployments, webhook automation, autoscaling, cloud monitoring, and central logging.",
         "Manage/operate virtual machines for many clients, including patching, P2V, automation, monitoring, failover, backups, etc.",
         "Build out of 200+ servers AWS + Joyent Public Cloud Linux and SmartOS infrastructure in SaltStack.",
-        "Many Docker container continous deployment designs. Docker CI, logging, and discovery automation.",
+        "Many Docker container continuous deployment designs. Docker CI, logging, and discovery automation.",
         "Build out of 70+ servers for financial services org using Hyper-V and Systems Center, across 3 sites. Hybrid cloud.",
         "Build out of customers Microsoft Private Cloud using Azure Portal and System Center.",
         "Many P2V and virtualization build-outs. Onsite, hybrid, and pure cloud."
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "company": "City of Virgina Beach",
+      "company": "City of Virginia Beach",
       "position": "Infrastructure Team Leader",
       "website": "http://vbgov.com",
       "startDate": "2004-07-01",
@@ -97,7 +97,7 @@
       "position": "Founder, Organizer, Docker Captain",
       "website": "http://dockerhr.org/",
       "startDate": "2016-03-01",
-      "summary": "Helping others gather and learn about containers and the Docker echosystem."
+      "summary": "Helping others gather and learn about containers and the Docker ecosystem."
     }
   ],
   "education": [
@@ -127,14 +127,14 @@
   ],
   "publications": [
     {
-      "name": "Fishbrains Sysadmin Blog",
-      "website": "http://fishbrains.com",
-      "summary": "My main blog for the last 15+ years. Not updated recently"
-    },
-    {
       "name": "My main site, About Me, etc. (forthcoming)",
       "website": "http://bretfisher.com",
       "summary": "Docker and DevOps Articles/Presentations"
+    },
+    {
+      "name": "Fishbrains Sysadmin Blog",
+      "website": "http://fishbrains.com",
+      "summary": "My main blog for the last 15+ years. Not updated recently"
     }
   ],
   "skills": [
