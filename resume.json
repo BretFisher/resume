@@ -6,7 +6,7 @@
     "email": "bret@coreenable.com",
     "phone": "+1 757-375-4433",
     "website": "http://bretfisher.com",
-    "summary": "20+ years in IT. Windows/Linux/SmartOS server Sysadmin with love for DevOps. JavaScript Developer. Designing, building, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users. A longer resume with lots of recommendations on LinkedIn. I Have my hands in many pots, but these days spend much of my time getting companies into the cloud, and modernizing/automating cloud infrastructure. I also currently work with *Infrastructure as Code*, Docker, cloud automation, SaltStack, CI/CD, and operationalization of manual tasks. Lover of DevOps and ChatOps movements. I spend my free time in our local, thriving, developer and startup scene with a focus on volunteerism and community organizing. I basically spend my days helping people. A people-person who finds himself in front of the computer way too often. I live at The Beach. Dogs not Cats.",
+    "summary": "20+ years in IT. Windows/Linux/SmartOS server Sysadmin with love for DevOps. Docker Captain. JavaScript Developer. Designing, building, and operating systems from 4 to 4000. Over 30 certifications. Countless happy customers and users. A longer resume with lots of recommendations on LinkedIn. I Have my hands in many pots, but these days spend much of my time getting companies into the cloud, and modernizing/automating cloud infrastructure. I also currently work with *Infrastructure as Code*, Docker, cloud automation, SaltStack, CI/CD, and operationalization of manual tasks. Lover of DevOps and ChatOps movements. I spend my free time in our local, thriving, developer and startup scene with a focus on volunteerism and community organizing. I basically spend my days helping people. A people-person who finds himself in front of the computer way too often. I live at The Beach. Dogs over Cats.",
     "location": {
       "address": "",
       "postalCode": "VA 23451",
@@ -38,15 +38,15 @@
       "position": "For-Hire Consultant",
       "website": "http://coreenable.com",
       "startDate": "2010-01-01",
-      "summary": "Serving dozens of clients throughout North America for Cloud and On-Prem Sysadmin, DevOps, Infrastructure Security, and Virtual CTO",
+      "summary": "Serving dozens of clients throughout North America for Cloud and On-Prem Docker, Sysadmin, DevOps, Infrastructure Security/Monitoring, and Automation",
       "highlights": [
         "Advise clients and engineer infrastructure build-out in the cloud: Azure, AWS, Digital Ocean, Joyent, and others. Container and virtual machine automation and management, hybrid cloud design, automation with JavaScript, PowerShell, and shell scripts",
         "Create and manage systems and services in the cloud: site-to-site VPN's, proxys, backups, caching, CDN, PaaS, IaaS, CI/CD, git-based deployments, webhook automation, autoscaling, cloud monitoring, and central logging.",
         "Manage/operate virtual machines for many clients, including patching, P2V, automation, monitoring, failover, backups, etc.",
+        "Build out of 200+ servers AWS + Joyent Public Cloud Linux and SmartOS infrastructure in SaltStack.",
+        "Many Docker container continous deployment designs. Docker CI, logging, and discovery automation.",
         "Build out of 70+ servers for financial services org using Hyper-V and Systems Center, across 3 sites. Hybrid cloud.",
         "Build out of customers Microsoft Private Cloud using Azure Portal and System Center.",
-        "Build out of customers Joyent Public Cloud Linux and SmartOS compute infrastructure in SaltStack.",
-        "Many Docker container continous deployment designs. Docker CI, logging, and discovery automation.",
         "Many P2V and virtualization build-outs. Onsite, hybrid, and pure cloud."
       ]
     },
@@ -129,50 +129,47 @@
     {
       "name": "Fishbrains Sysadmin Blog",
       "website": "http://fishbrains.com",
-      "summary": "My main blog for the last 15+ years."
+      "summary": "My main blog for the last 15+ years. Not updated recently"
     },
     {
-      "name": "Winsitter Heartbeat Blog",
-      "website": "http://winsitter.com/blog",
-      "summary": "Blogging about the product, monitoring, and sysadmin"
+      "name": "My main site, About Me, etc. (forthcoming)",
+      "website": "http://bretfisher.com",
+      "summary": "Docker and DevOps Articles/Presentations"
     }
   ],
   "skills": [
     {
       "name": "Sysadmin and IT Pro",
-      "level": "Epic",
+      "level": "Level: Epic I hope",
       "keywords": [
         "MongoDB",
-        "Windows Server and Clients/OS X",
-        "Linux, FreeBSD, Solaris/SmartOS",
-        "DevOps",
-        "ChatOps",
-        "Azure",
-        "AWS/EC2",
-        "Digital Ocean",
-        "Google Apps/Office 365",
+        "Linux, FreeBSD, Solaris/SmartOS, OSX",
+        "Windows Server and Clients",
         "Docker",
-        "Bash Scripting",
+        "Saltstack, Puppet, CloudFormation",
+        "DevOps",
+        "ChatOps (just had to put that in there)",
+        "Azure, AWS/EC2, Digital Ocean, Joyent",
+        "VMWare/ESX, Hyper-V, Parallels",
+        "Shell Scripting, PowerShell",
         "JavaScript/Node.js",
-        "PowerShell",
-        "Continuous Integration/Deployment",
+        "Continuous Integration/Deployment, Jenkins, CodeShip, TravisCI",
         "Microsoft SQL",
         "Microsoft System Center",
-        "Way to many tools and products to list"
+        "Way to many tools and products to list..."
       ]
     },
     {
       "name": "Web Development",
-      "level": "Hacker for Good",
+      "level": "Level: Hacker for Good",
       "keywords": [
         "JavaScript",
         "Node.js",
         "Meteor",
         "HTML/CSS",
-        "Cordova",
         "ASP.NET",
-        "PHP",
-        "MS-SQL",
+        "PHP, Symfony",
+        "MS-SQL, Postgres, MySQL",
         "MongoDB",
         "many other frameworks on the languages mentioned here"
       ]
