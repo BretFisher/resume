@@ -23,20 +23,25 @@
       {
         "network": "GitHub",
         "username": "BretFisher",
-        "url": "http://github.com/bretfisher"
+        "url": "https://github.com/bretfisher"
+      },
+      {
+         "network": "Facebook",
+        "username": "bretfisher.devops",
+        "url": "https://www.facebook.com/bretfisher.devops"
       },
       {
         "network": "LinkedIn",
         "username": "BretFisher",
-        "url": "http://www.linkedin.com/in/bretefisher"
+        "url": "https://www.linkedin.com/in/bretefisher"
       }
     ]
   },
   "work": [
     {
       "company": "Core Enable",
-      "position": "For-Hire Consultant",
-      "website": "http://coreenable.com",
+      "position": "For-Hire Consultant and Trainer",
+      "website": "http://bretfisher.com",
       "startDate": "2010-01-01",
       "summary": "Serving dozens of clients throughout North America for Cloud and On-Prem Docker, Sysadmin, DevOps, Infrastructure Security/Monitoring, and Automation",
       "highlights": [
